@@ -17,7 +17,7 @@
 		609D19DE26B121E400271E6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 609D19C926B121E300271E6F /* Assets.xcassets */; };
 		609D19DF26B121E400271E6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 609D19CA26B121E300271E6F /* Main.storyboard */; };
 		609D19E026B121E400271E6F /* TestTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609D19CC26B121E300271E6F /* TestTableViewCell.swift */; };
-		609D19E526B121E400271E6F /* NetMedsTask.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 609D19D226B121E300271E6F /* NetMedsTask.xcdatamodeld */; };
+		609D19E526B121E400271E6F /* LBB.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 609D19D226B121E300271E6F /* LBB.xcdatamodeld */; };
 		609D19E626B121E400271E6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 609D19D526B121E300271E6F /* LaunchScreen.storyboard */; };
 		609D19E726B121E400271E6F /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609D19D826B121E300271E6F /* ListViewController.swift */; };
 		609D19E826B121E400271E6F /* TableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609D19D926B121E300271E6F /* TableViewDataSource.swift */; };
@@ -123,7 +123,7 @@
 				609D19D426B121E300271E6F /* Base.lproj */,
 				609D19D726B121E300271E6F /* ListViewController */,
 				609D19CA26B121E300271E6F /* Main.storyboard */,
-				609D19D226B121E300271E6F /* NetMedsTask.xcdatamodeld */,
+				609D19D226B121E300271E6F /* LBB.xcdatamodeld */,
 				609D19CB26B121E300271E6F /* TableViewCell */,
 				609D199326B1214400271E6F /* AppDelegate.swift */,
 				609D199526B1214400271E6F /* SceneDelegate.swift */,
@@ -320,7 +320,7 @@
 				609D19EA26B121E400271E6F /* GetDataRequestHandler.swift in Sources */,
 				609D19E026B121E400271E6F /* TestTableViewCell.swift in Sources */,
 				609D19EC26B121E400271E6F /* ListNavigationFactory.swift in Sources */,
-				609D19E526B121E400271E6F /* NetMedsTask.xcdatamodeld in Sources */,
+				609D19E526B121E400271E6F /* LBB.xcdatamodeld in Sources */,
 				609D199426B1214400271E6F /* AppDelegate.swift in Sources */,
 				609D19E926B121E400271E6F /* ListViewEventHandler.swift in Sources */,
 				609D19E726B121E400271E6F /* ListViewController.swift in Sources */,
@@ -659,13 +659,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		609D19D226B121E300271E6F /* NetMedsTask.xcdatamodeld */ = {
+		609D19D226B121E300271E6F /* LBB.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				609D19D326B121E300271E6F /* NetMedsTask.xcdatamodel */,
 			);
 			currentVersion = 609D19D326B121E300271E6F /* NetMedsTask.xcdatamodel */;
-			path = NetMedsTask.xcdatamodeld;
+			path = LBB.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

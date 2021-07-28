@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  NetMedsTask
+//  LLBTask
 //
-//  Created by shashank atray on 09/09/20.
+//  Created by shashank atray on 18/08/21.
 //  Copyright © 2020 shashank atray. All rights reserved.
 //  LinkeIn - https://www.linkedin.com/in/shashank-k-atray/
 //
